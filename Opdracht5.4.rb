@@ -20,8 +20,3 @@ puts(
       end
     end
 )
-
-puts "End"
-puts "Test"
-puts "lala"
-puts "testtest"
